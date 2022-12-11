@@ -1,0 +1,22 @@
+Step-1
+
+Go to task manager
+
+Go to Services
+
+Search for "MSQL 80"
+
+If the service is not running, run it
+
+Step-2
+
+Open mysql workbench
+
+Connect to the db
+
+Step-3
+
+Run the project. Eureka!
+
+
+
